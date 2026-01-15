@@ -23,18 +23,6 @@ This project analyzes Kenya's electricity sector from 2000 to 2024, focusing on 
 - Quantify risks: volatility, tail risks, and dependency on variable sources
 - Provide interactive dashboards and visualizations to support decision-making
 
-## Analytical Workflow
-```mermaid
-flowchart TD
-    A[Project Setup & Scope] --> B[Data Acquisition]
-    B --> C[Data Cleaning & Preprocessing]
-    C --> D[Exploratory Data Analysis]
-    D --> E[Risk Analysis]
-    E --> F[Predictive Modeling / Forecasting]
-    F --> G[Visualization & Dashboarding]
-    G --> H[Documentation & Reporting]
-    H --> I[Portfolio / Stakeholder Outputs]
-
 Deliverables
 •	Interactive Power BI dashboards
 •	Python notebooks and SQL scripts
